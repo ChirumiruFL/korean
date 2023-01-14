@@ -6,7 +6,7 @@
 
 ### 질환
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/891490390794964992?theme=%?bg=ff66bC&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=아마도%20세계계산)](https://discord.com/users/891490390794964992)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31sju7bunnvaxguotc7yyow7aeli&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31sju7bunnvaxguotc7yyow7aeli&redirect=true)
 - [x] 세계계산 | 日本
 - [x] 세계계산 | Global
 - [x] 세계계산 | 繁體中文
