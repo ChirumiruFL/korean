@@ -1,4 +1,9 @@
-## 에뮤
+<h2 align="center">안녕하세요! 나는 에뮤</h2>
+<p align="center" alt="" width="">
+    <img alt="" src="assets/standard.gif">
+</p>
+
+
 ![abnormality-dancing-girl-vocaloid](https://user-images.githubusercontent.com/117464679/211882563-592c52be-b82a-4ee5-9640-df673d150d4d.gif)
 안녕하세요, 저는 PJSEKAI 플레이어이자 다른 RHYTHMS GAMES의 플레이어입니다! 나는 잘하지 못하지만 적어도 나는 재미있다! <3 나는 당신이 이것을 읽고 너무 행복합니다!..
 
