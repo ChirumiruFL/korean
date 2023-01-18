@@ -1,4 +1,4 @@
-<h2 align="center">안녕하세요! 나는 에뮤</h2>
+<h2 align="center">안녕하세요 K입니다!</h2>
 <p align="center" alt="" width="">
     <img alt="" src="assets/standard.gif">
 </p>
